@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF4B4B"  # Warna utama (misalnya tombol)
+backgroundColor = "#F5F5F5"  # Warna latar belakang utama
+secondaryBackgroundColor = "#EAEAEA"  # Warna latar belakang sidebar
+textColor = "#333333"  # Warna teks utama
+font = "sans serif"  # Pilihan: "sans serif", "monospace", atau "serif"
